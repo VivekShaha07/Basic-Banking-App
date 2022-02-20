@@ -1,11 +1,13 @@
-# Banking-System-WebApp
+# Basic Banking App
 
-This is a sample of banking system with basics feature.
+In the project directory, you can run:
 
-The website is designed by Using :
+## npm install
 
-(a) Frontend tools: HTML, CSS, JavaScript & Bootstrap
+Installs all the dependencies which are present in package.json
 
-(b) Backend tools: NodeJS & ExpressJS 
+## npm start
 
-(c) Database: MongoDB
+Runs the app in the development mode.
+
+Open http://localhost:5000 to view it in the browser.
