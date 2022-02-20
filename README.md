@@ -1,4 +1,4 @@
-# Basic Banking App
+# Basic Banking System
 
 In the project directory, you can run:
 
